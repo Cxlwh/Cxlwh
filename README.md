@@ -1,4 +1,4 @@
-### Hi there 👋,I'm fairy.I'am from HeNan New York.DaZhuanGe is handsome.
+### Hi there 👋,I'm fairy.
 
 <!--
 **Cxlwh/Cxlwh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
